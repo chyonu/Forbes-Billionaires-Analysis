@@ -1,6 +1,7 @@
 # Forbes-Billionaires-Analysis
 Exploring a bunch of information about really Rich people from Forbes
 
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
